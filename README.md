@@ -1,4 +1,4 @@
-# Throwin_ball_VR_Unity
+# Throwin_ball_VR
 >   Environment: <br> 
   ***Software*** : Unity 2021.3.21 f1c1 <br>
   ***Tools***: Steam VR <br>
