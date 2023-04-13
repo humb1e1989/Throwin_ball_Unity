@@ -12,7 +12,7 @@
 >  Outliner:
 > + if you want to see the source code of this program: [click this](https://github.com/humb1e1989/Throwin_ball_Unity/tree/main/Src_Code_C%23)<br>
 > + if you want to run the program of mine, [click this](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/I'm%20lovin%20it%EF%BC%81.exe)<br>
-> + if you want to see the models and materials I use, [click this]():<br>  
+> + if you want to see the models and materials I use, [click this](https://github.com/humb1e1989/Throwin_ball_Unity/tree/main/Models%25Materials):<br>  
 
 ### Introduction:
 >
