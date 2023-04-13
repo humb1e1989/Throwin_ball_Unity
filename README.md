@@ -5,6 +5,7 @@
   ***Tools***: Steam_VR <br>
   ***Platform***: Oculus <br>
   ***Device***: Oculus QUEST 2 <br>
+  ***Render Pipline***: URP
 
 ## It is a VR program where the user could throw the balls to hit the random point displaying on the board in front of them. I think it could be improved for a lot use in the future. Things like scene construction could be improved in the future. A more immersive interaction approach should be improved.
 
