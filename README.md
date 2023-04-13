@@ -6,7 +6,7 @@
   ***Platform***: Oculus <br>
   ***Device***: Oculus QUEST 2 <br>
 
-## It is a VR program where the user could throw the balls to random point displaying on the board in front of them. It could be in improve for a lot use in the future. Things like scene construction could be improved in the future. A more immersive interaction approach should be improved.
+## It is a VR program where the user could throw the balls to random point displaying on the board in front of them. It could be improved for a lot use in the future. Things like scene construction could be improved in the future. A more immersive interaction approach should be improved.
 
 >  Outliner:
 > + if you want to get the packed folder of this project, [click this](https://github.com/humb1e1989/McDonalds-Drive-Thru/tree/main/McDonald%E2%80%98s%20Drive-thru) or [click this for compressed files](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/McDonald%E2%80%98s%20Drive-thru.7z)<br>
