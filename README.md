@@ -27,7 +27,7 @@
 
 
 * Demo:
-
+>![The main function](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20store%20counter%20and%20the%20stairs.png)
 
 
 
