@@ -23,10 +23,10 @@
 |Key|Function|
 |:-|:-|
 |X on the left hand| Zero the score|
-|Front trigger| Shoot the balls|
+|Front trigger| Shoot the balls| 
 
 
-** Demo:
+* Demo:
 
 
 
