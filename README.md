@@ -30,5 +30,10 @@
 >![The main function](https://github.com/humb1e1989/Throwin_ball_Unity/blob/main/Demo/demo.gif)
 
 
+* Future Plan：
+> a more immersive environments <br>
+> a more interesting human-computer interaction <br>
+> and more... <br>
+
 
 
